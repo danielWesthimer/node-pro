@@ -1,0 +1,16 @@
+contacts=[
+   { id:1,
+    name:avi,
+    number:111
+    },
+    
+   { id:1,
+    name:eli,
+    number:222
+    },
+
+   { id:1,
+    name:yoram,
+    number:333
+    }
+]
